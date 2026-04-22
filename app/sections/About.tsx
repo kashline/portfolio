@@ -4,7 +4,7 @@ const highlights: { label: string; value: string }[] = [
   { label: "Years in industry", value: "9+" },
   { label: "Companies shipped for", value: "3" },
   { label: "Focus", value: "Full-stack · AI" },
-  { label: "Based in", value: "Remote, USA" },
+  { label: "Based in", value: "Seattle, USA" },
 ];
 
 export default function About() {
